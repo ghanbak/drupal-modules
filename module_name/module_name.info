@@ -1,0 +1,4 @@
+name = Module Name 
+description = Provides effects on piece of functionality
+core = 7.x
+package = MODULENAME
